@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange)
+![License](https://img.shields.io/badge/Project-Academic-green)
 # Accelerating Monte Carlo Pricing of Asian Options using Neural Networks
 
 **IE 517 — Financial Machine Learning | University of Illinois Urbana-Champaign | Group 3**
